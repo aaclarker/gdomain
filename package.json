@@ -1,0 +1,18 @@
+{
+  "name": "gdomain",
+  "version": "0.0.1",
+  "description": "Utility to update the IP address of a Google Domains DNS record.",
+  "main": "gdomain.js",
+  "dependencies": {
+    "cron": "1.x.x",
+    "sync-request": "2.x.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pan1cz/gdomain.git"
+  },
+  "author": "Aaron Clark (aaronalexclark@gmail.com)",
+  "license": "MIT",
+  "private": true,
+  "homepage": "https://github.com/pan1cz/gdomain"
+}
